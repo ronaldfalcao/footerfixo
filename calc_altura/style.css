@@ -1,0 +1,12 @@
+ .body{
+ 	background-color: #CCCCCC;
+ }
+
+ .content {
+      min-height: calc(100vh - 70px);
+    }
+
+    .footer {
+      height: 50px;
+      background-color: black;
+    }
